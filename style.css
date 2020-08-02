@@ -96,11 +96,11 @@ body {
 }
 .red-box .box-ele {
   text-align: center;
+  width: 100%;
 }
 .red-box .box-ele p {
   font-size: 2.3rem;
   color: white;
-  margin: 0 2.5em 30px 2.5em;
   font-weight: bold;
 }
 .red-box .box-ele button {
