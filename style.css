@@ -18,9 +18,6 @@ body {
 .row:first-child {
   margin-top: 4em;
 }
-.white-box p {
-  font-family: arial, sans-serif;
-}
 .white-box p,
 .red-box p {
   text-align: center;
