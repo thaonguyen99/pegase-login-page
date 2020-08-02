@@ -43,7 +43,7 @@ body {
 .form-element input {
   margin: 17px 20px 17px 0;
   border: none;
-  width: 240px;
+  width: 280px;
   font-size: 0.9rem;
 }
 /* button */
@@ -134,7 +134,7 @@ body {
     margin-top: 10px;
   }
 }
-@media only screen and (min-width: 769px) {
+@media only screen and (min-width: 769px) and (max-width: 1100px) {
   .red-box .box-ele p {
     top: 20%;
     font-size: 1.6rem;
