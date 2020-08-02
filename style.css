@@ -30,6 +30,9 @@ body {
 .white-box {
   border-radius: 25px 0 0 25px;
   box-shadow: -1px 5px 7px 5px rgba(0, 0, 0, 0.1);
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .white-box p {
   font-size: 1.3rem;
