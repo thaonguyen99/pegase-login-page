@@ -35,7 +35,7 @@ body {
 .form-element {
   border-radius: 25px;
   box-shadow: 0 5px 5px 5px rgba(0, 0, 0, 0.1);
-  margin: 20px auto 40px auto;
+  margin: 1rem auto 1rem auto;
 }
 .form-element label {
   margin: 17px 5px 17px 20px;
